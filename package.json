@@ -1,26 +1,29 @@
 {
   "name": "learn-js",
   "version": "1.0.0",
-  "description": "js examples for fast learning",
+  "description": "js examples for fast test learning",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aneelia/learn-js.git"
+    "url": "git+https://github.com/Alekssoo/module17_homework.git"
   },
-  "author": "aneelia",
+  "author": "Alekssoo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aneelia/learn-js/issues"
+    "url": "https://github.com/Alekssoo/module17_homework/issues"
   },
-  "homepage": "https://github.com/aneelia/learn-js#readme",
+  "homepage": "https://github.com/Alekssoo/module17_homework#readme",
   "devDependencies": {
     "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^26.6.3",
     "cypress": "^4.10.0",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
   }
 }
